@@ -1,0 +1,5 @@
+{
+    "LABEL_CONFIG_PATH": "../config_my.json",
+    "LABELS_PATH": "../training/v2.0/labels",
+    "OUTPUT_PATH": "../labels_encoded"
+}
